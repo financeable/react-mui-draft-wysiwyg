@@ -18,11 +18,11 @@ Then install the editor:
 
 With npm:
 ```bash
-npm install --save @material-ui/icons draft-js react-mui-draft-wysiwyg
+npm install --save @mui/icons-material draft-js react-mui-draft-wysiwyg
 ```
 Or with yarn:
 ```bash
-yarn add @material-ui/icons draft-js react-mui-draft-wysiwyg
+yarn add @mui/icons-material draft-js react-mui-draft-wysiwyg
 ```
 
 ## Usage
